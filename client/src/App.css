@@ -1,0 +1,31 @@
+.App {
+	width: 100%;
+	height: 100vh;
+	background-image: url('./assets/media/txttoxml.png');
+	background-repeat: repeat;
+    background-size: 19%;
+}
+
+.container {
+    background-color: rgb(212, 212, 212);
+    margin-top: 60px;
+    padding: 35px;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.text-container {
+    height: 700px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+    border: 1px solid black;
+}
+
+.textarea {
+    width: 100%;
+    height: 100%;
+    padding: 12px 20px;
+    border: none;
+    resize: none;
+}
